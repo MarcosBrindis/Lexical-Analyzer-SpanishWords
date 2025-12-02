@@ -1,0 +1,41 @@
+El perro corrio 3 veses acia la kasa. ¿tenemos computadoras?
+
+La inteligencia artificial esta revolucionando el mundo de la tecnologia. Los sitemas modernos
+pueden aprender de forma autonoma y mejorar con el tiempo. Algunas aplicaciones incluyen el
+reconocimiento de bos, procesamiento de lenguaje natural y vision por computadora.
+
+En el año 2025, la educacion ha evolucionado considerablemente. Las universidades utilizan
+plataformas digitales para ofrecer cursos en linea. Los estudiantes pueden acceder a contenido
+de alta calidad desde cualquier lugar del mundo.
+
+El desarrollo de software requiere conocimientos de programacion, algoritmos y estruturas de
+datos. Los lenguajes mas populares incluyen Python, Java, JavaScript y C++. Cada uno tiene
+sus ventajas y desventajas dependiendo del proyecto.
+
+¿Sabias que el español es uno de los idiomas mas hablados del mundo? Mas de 500 millones de
+personas lo hablan como lengua materna. Es el idioma oficial en 21 paises.
+
+Los automatas finitos son fundamentales en la teoria de la computacion. Se utilizan para diseñar
+compiladores, analizadores lexicos y sistemas de reconocimiento de patrones. Un automata puede
+estar en diferentes estados y transitar entre ellos segun las entradas que recibe.
+
+El analisis lexico es la primera fase de un compilador. Su funcion principal es leer el codigo
+fuente y convertirlo en una secuencia de tokens. Cada token representa una unidad lexica del
+lenguaje de programacion.
+
+Este texto contiene varios errores ortograficos intencionales para probar el analizador lexico.
+Palabras como "corrio" (deberia ser "corrió"), "veses" (deberia ser "veces"), "acia" (deberia
+ser "hacia"), "kasa" (deberia ser "casa"), "sitemas" (deberia ser "sistemas"), "bos" (deberia
+ser "voz"), "estruturas" (deberia ser "estructuras") y "paises" (deberia ser "países") estan
+mal escritas a proposito.
+
+La practica de programacion ayuda a mejorar las habilidades de resolucion de problemas. Es
+importante practicar regularmente y trabajar en proyectos reales. La experiencia es la mejor
+maestra en el campo de la informatica.
+
+123 numeros y 456 mas numeros para probar la deteccion de digitos. El año 2025 marca un hito
+importante en la tecnologia. El siglo XXI ha traido innovaciones increibles.
+
+¡Exito en tu proyecto! ¿Lograras completar todas las tareas a tiempo? La determinacion y el
+esfuerzo son clave para alcanzar tus metas. Recuerda siempre revisar tu trabajo antes de
+entregarlo.
