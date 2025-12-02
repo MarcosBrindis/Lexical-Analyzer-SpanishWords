@@ -16,6 +16,8 @@ venv.bak/
 # Archivos de salida generados
 data/output/*.txt
 data/output/*.csv
+# Pero mantener el directorio con .gitkeep
+!data/output/.gitkeep
 
 # Archivos temporales
 *.tmp

@@ -33,7 +33,7 @@ Estas son las reglas utilizadas en el archivo `src/logica/reglas.py`:
 
 ###  Estructura del Proyecto
 - **main.py** → Ejecutable principal.  
-- **data/input/** → Contiene `diccionario_espanol.csv` y textos de prueba.  
+- **data/input/** → Contiene `las-mil-palabras-mas-frecuentes.csv` y textos de prueba.  
 - **src/ui/** → Interfaz gráfica (Tkinter).  
 - **src/logica/** → Lógica del autómata y manejo de datos.  
 
